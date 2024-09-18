@@ -189,6 +189,9 @@
     .play-icon{
         display: none;
         font-size: 25px;
+        height: fit-content;
+        width: fit-content;
+
     }
   }
   
