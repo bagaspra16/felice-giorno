@@ -109,6 +109,7 @@
   .play-icon {
     display: none;
     color: white;
+    margin-left: 3px;
   }
   
   .bar {
